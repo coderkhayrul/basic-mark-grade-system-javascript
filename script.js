@@ -518,6 +518,7 @@ function ict(){
 }
 
 function calculate(){
+    
     // FINAL RESULT
     var bangla1_result =  document.getElementById('b-1-total-mark').value;
     var bangla2_result =  document.getElementById('b-2-total-mark').value;
